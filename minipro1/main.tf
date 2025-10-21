@@ -159,8 +159,3 @@ resource "aws_instance" "myEC2" {
     # interpreter  = ["Powershell", "-Command"]
   }
 }
-
-
-
-
-
